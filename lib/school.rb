@@ -6,7 +6,7 @@ def initialize(school_name)
 end
 
 def add_student(name, grade)
-  @roster << name 
+  @roster << name
 
 end
 
